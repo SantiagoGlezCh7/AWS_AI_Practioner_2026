@@ -1,3 +1,1 @@
-[![Licencia Creative Commons](https://creativecommons.org)](http://creativecommons.org)
-
-Este trabajo está licenciado bajo una [Licencia Creative Commons Atribución 4.0 Internacional](http://creativecommons.org).
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.es"><img alt="Licencia Creative Commons" style="border-width:0" src="https://creativecommons.org" /></a><br />Esta obra está bajo una <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.es">Licencia Creative Commons Atribución 4.0 Internacional</a>.
