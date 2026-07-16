@@ -10,3 +10,9 @@ Este proyecto se presenta como una guía no oficial, pensada para complementar m
 Quiero que este espacio sea útil para otras personas interesadas en aprender, y si encuentras valor en este contenido, te invito a dejar una estrellita en el repositorio para seguir motivándome a compartir conocimiento.
 
 Gracias por acompañarme en este recorrido de aprendizaje. @aws
+
+
+
+[![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.es)
+
+Este trabajo está bajo una [Licencia Creative Commons Atribución 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es).
