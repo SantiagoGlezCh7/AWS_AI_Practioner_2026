@@ -1,6 +1,6 @@
 ## Cuestionario 
 
-¿Qué opción describe MEJOR el aprendizaje supervisado en el aprendizaje automático?
+1.- ¿Qué opción describe MEJOR el aprendizaje supervisado en el aprendizaje automático?
 
 A. Aprender a partir de pares de entrada-salida etiquetados
 
@@ -32,7 +32,7 @@ Las demás respuestas son incorrectas por las siguientes razones:
 
 </details>
 
-¿Qué servicio de IA gestionado de AWS está diseñado para convertir el habla en texto?
+2.- ¿Qué servicio de IA gestionado de AWS está diseñado para convertir el habla en texto?
 
 A. Amazon Lex
 
@@ -66,7 +66,7 @@ https://aws.amazon.com/transcribe/
 </details>
 
 
-¿Cuál es la opción que MEJOR describe el papel del aprendizaje profundo en el contexto de la inteligencia artificial y el aprendizaje automático (IA/ML)?
+3.- ¿Cuál es la opción que MEJOR describe el papel del aprendizaje profundo en el contexto de la inteligencia artificial y el aprendizaje automático (IA/ML)?
 
 
 A. El aprendizaje profundo es una técnica tradicional de aprendizaje automático que no utiliza redes neuronales.
